@@ -23,7 +23,7 @@
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
       <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
       <p class="lead"> Hello cac con vo nha</p>
-      <p class="lead">Mai test nha</p>
+      <p class="lead">Mai test nhaaaaa</p>
     </div>
     <!-- The content of the website ends here! -->
 
